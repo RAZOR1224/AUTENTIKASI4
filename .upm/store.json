@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"77a846a2000a9257a9d75ea9105bcf80","lockfileHash":"d4cacd1a4efb88db53bb9076721092f0","guessedImports":["laravel-mix","laravel-vite-plugin","vite"],"guessedImportsHash":"5f747ef753b743b31ea28427d9ad4ce7"},"php-composer":{"specfileHash":"14fc1501bfd502afce150cc972ae06db","lockfileHash":"b5e5fbffa348093684950ca4d0f23d70"}}}
